@@ -25,6 +25,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% comment %}
 HEADER
 
+
 Edit the values in the block above to be appropriate for your workshop.
 If the value is not 'true', 'false', 'null', or a number, please use
 double quotation marks around the value, unless specified otherwise.
